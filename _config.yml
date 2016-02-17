@@ -1,0 +1,28 @@
+name: SOS
+favicon: null
+layout_spectrum: 0.6210417407564819
+typography_spectrum: 0.190052974736318
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.924247820628807
+  lightness: 0.6925644911825657
+  saturation: 0.2358927435707301
+  rhythmicContrast: 0.5310396931599826
+purpose: []
