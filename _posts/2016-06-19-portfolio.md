@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Portfolio
-datePublished: '2016-06-19T00:15:16.362Z'
-dateModified: '2016-06-19T00:15:15.699Z'
+datePublished: '2016-06-19T00:16:28.176Z'
+dateModified: '2016-06-19T00:16:18.819Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-19-portfolio.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-06-19-portfolio.md
+starred: true
 url: portfolio/index.html
 _type: Article
 
